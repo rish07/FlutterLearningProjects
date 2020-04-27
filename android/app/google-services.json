@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128295835292",
+    "firebase_url": "https://mlvision-213dc.firebaseio.com",
+    "project_id": "mlvision-213dc",
+    "storage_bucket": "mlvision-213dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128295835292:android:e34deecea376c927327f59",
+        "android_client_info": {
+          "package_name": "com.example.newday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128295835292-svq4he51mn3tmj9octs6fcqme5edom81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newday",
+            "certificate_hash": "eb6a46348626e05bb36d81dce6d703aef40a4a65"
+          }
+        },
+        {
+          "client_id": "128295835292-3bgukvnic72f8j3jokke3vc5nnrablou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ_avT1pQ7J94_ZHfNCMxXtHQC4jKO0BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128295835292-3bgukvnic72f8j3jokke3vc5nnrablou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
